@@ -6,19 +6,10 @@ Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL
 
 ### Tecnologías que uso
 <p align="left">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=40" alt="PHP" height="40" width="40">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=40" alt="MySQL" height="40" width="40">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&logoWidth=40" alt="Java" height="40" width="40">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=140" alt="PHP" height="40" width="40">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=140" alt="MySQL" height="40" width="40">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&logoWidth=140" alt="Java" height="40" width="40">
   <!-- Agrega más tecnologías de la misma manera -->
-</p>
-
----
-
-### Las estadísticas del repositorio
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Most Used Languages" height="180">
 </p>
 
 
