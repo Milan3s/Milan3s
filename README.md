@@ -19,7 +19,7 @@ Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL
       Sistema de gestión desarrollado con Java y MySQL.<br>
       <a href="https://github.com/username/sistema-gestion">Ver Repositorio</a>
     </td>
-    <td align="center">
+    <td align="left">
       <strong>Blog PHP</strong><br>
       Blog personal creado con PHP y MySQL.<br>
       <a href="https://github.com/username/blog-php">Ver Repositorio</a>
