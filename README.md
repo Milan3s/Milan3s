@@ -12,6 +12,7 @@ Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="40">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40">
+  <img src="https://img.shields.io/badge/-MVC-FF6347?style=for-the-badge&logo=web&logoColor=white" alt="MVC" height="40">
 </p>
 
 ---
@@ -28,12 +29,12 @@ Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL
 <table>
   <tr>
     <td align="left">
-      <strong>Gestor de Incidencias</strong><br>
+      <strong>Gestión de Incidencias</strong><br>
       Sistema de gestión desarrollado con Java y MySQL.<br>
       <a href="https://github.com/username/gestion-de-incidencias">Ver Repositorio</a>
     </td>
     <td align="left">
-      <strong>Gestor de tareas</strong><br>
+      <strong>Gestión de tareas</strong><br>
       Agenda de tareas personal creado con PHP y MySQL.<br>
       <a href="https://github.com/username/gestion-de-tareas">Ver Repositorio</a>
     </td>
