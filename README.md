@@ -41,7 +41,7 @@ Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL
 ---
 
 ### Estadísticas del Repositorio
-<p align="center">
+<p align="lef">
   <img src="https://github-readme-stats.vercel.app/api?username=milan3s&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=milan3s&theme=radical" alt="GitHub Streak" height="180">
 </p>
@@ -49,7 +49,7 @@ Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL
 ---
 
 ### Lenguajes más usados
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan3s&layout=compact&theme=radical" alt="Most Used Languages" height="180">
 </p>
 
