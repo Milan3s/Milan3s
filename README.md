@@ -1,18 +1,40 @@
-![Banner](banner.jpg)
+![Banner](./banner.jpg)
 
 # ¡Hola, soy David Milanés! 👋
 
 Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL, Java y Desarrollo Web. Me apasiona trabajar en sistemas backend y construir aplicaciones web escalables. ¡Siempre estoy dispuesto a aprender y asumir nuevos desafíos!
 
-### Tecnologías que uso <img src="https://img.icons8.com/ios-filled/24/ffffff/laptop.png" alt="Laptop Icon" style="vertical-align: middle;">
-<p align="left">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="40">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40">
+---
+
+### Tecnologías que uso para Maquetación <img src="https://img.icons8.com/ios-filled/24/ffffff/laptop.png" alt="Laptop Icon" style="vertical-align: middle;">
+<p align="left">  
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="40">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40">
+</p>
+
+### Tecnologías que uso para Backend <img src="https://img.icons8.com/ios-filled/24/ffffff/server.png" alt="Server Icon" style="vertical-align: middle;">
+<p align="left">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="40">
   <img src="https://img.shields.io/badge/-MVC-FF6347?style=for-the-badge&logo=web&logoColor=white" alt="MVC" height="40">
+</p>
+
+### Tecnologías que uso para bases de datos <img src="https://img.icons8.com/ios-filled/24/ffffff/database.png" alt="Database Icon" style="vertical-align: middle;">
+<p align="left">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="40">
+</p>
+
+### Tecnologías que uso para Escritorio <img src="https://img.icons8.com/ios-filled/24/ffffff/workstation.png" alt="Workstation Icon" style="vertical-align: middle;">
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40">
+  <span>JavaFX</span>
+</p>
+
+### Sistema operativo que uso para Desplegar las Aplicaciones Web <img src="https://img.icons8.com/ios-filled/24/ffffff/linux.png" alt="Linux Icon" style="vertical-align: middle;">
+<p align="left">
+  <span>Ubuntu</span><br>
+  <span>Linux</span>
 </p>
 
 ---
