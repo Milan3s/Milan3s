@@ -4,7 +4,7 @@
 
 Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL, Java y Desarrollo Web. Me apasiona trabajar en sistemas backend y construir aplicaciones web escalables. ¡Siempre estoy dispuesto a aprender y asumir nuevos desafíos!
 
-### Tecnologías que uso ![Laptop Icon](https://img.icons8.com/ios-filled/50/000000/laptop.png)
+### Tecnologías que uso <img src="https://img.icons8.com/ios-filled/24/ffffff/laptop.png" alt="Laptop Icon" style="vertical-align: middle;">
 <p align="left">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="40">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40">
@@ -16,7 +16,7 @@ Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL
 
 ---
 
-### Frameworks que uso ![Laptop Icon](https://img.icons8.com/ios-filled/50/000000/laptop.png)
+### Frameworks que uso <img src="https://img.icons8.com/ios-filled/24/ffffff/laptop.png" alt="Laptop Icon" style="vertical-align: middle;">
 <p align="left">
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="40">
   <img src="https://img.shields.io/badge/-Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" alt="Astro" height="40">
