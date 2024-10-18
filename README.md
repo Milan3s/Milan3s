@@ -1,4 +1,4 @@
-![Banner](https://github.com/Milan3s/raw/main/banner.jpg)
+![Banner](https://github.com/Milan3s/Milan3sraw/main/banner.jpg)
 
 # ¡Hola, soy David Milanés! 👋
 
