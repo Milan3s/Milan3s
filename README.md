@@ -1,16 +1,18 @@
-## Hi there 👋
+![Banner](https://link-to-your-banner.com/banner.png)
 
-<!--
-**Milan3s/Milan3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm David Milanés 👋
 
-Here are some ideas to get you started:
+I'm a passionate Full-stack Developer with over 2 years of experience in PHP, MySQL, Java, and Web Development. I enjoy working on backend systems and building scalable web apps. I’m always open to learning and taking on new challenges!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies & Tools I Use
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+
+### Featured Projects
+- [Sistema de Gestión](https://github.com/username/sistema-gestion): A management system built using Java and MySQL.
+- [Blog PHP](https://github.com/username/blog-php): A personal blog created with PHP and MySQL.
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- [Email](mailto:your-email@example.com)
