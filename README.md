@@ -4,12 +4,6 @@
 
 Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL, Java y Desarrollo Web. Me apasiona trabajar en sistemas backend y construir aplicaciones web escalables. ¡Siempre estoy dispuesto a aprender y asumir nuevos desafíos!
 
-<style>
-  body {
-    font-family: "Courier New", Courier, monospace;
-  }
-</style>
-
 ### Tecnologías que uso <img src="https://img.icons8.com/ios-filled/24/ffffff/laptop.png" alt="Laptop Icon" style="vertical-align: middle;">
 <p align="left">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="40">
