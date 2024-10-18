@@ -28,13 +28,13 @@ Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL
 ### Tecnologías que uso para Escritorio <img src="https://img.icons8.com/ios-filled/24/ffffff/workstation.png" alt="Workstation Icon" style="vertical-align: middle;">
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40">
-  <span>JavaFX</span>
+  <img src="https://img.shields.io/badge/-JavaFX-007396?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX" height="40">
 </p>
 
 ### Sistema operativo que uso para Desplegar las Aplicaciones Web <img src="https://img.icons8.com/ios-filled/24/ffffff/linux.png" alt="Linux Icon" style="vertical-align: middle;">
 <p align="left">
-  <span>Ubuntu</span><br>
-  <span>Linux</span>
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" height="40">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="40">
 </p>
 
 ---
