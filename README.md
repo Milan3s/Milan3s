@@ -1,6 +1,6 @@
 ![Banner](./banner_v2.png)
 
-# ¡Hola, soy David Milanés! 👋
+# ¡Hola, bienvenido a mi github! 👋
 
 Soy un Desarrollador de Software con más de 2 años de experiencia en PHP, MySQL, Java, Desarrollo Web, y algún que otro Framework. Me gusta mucho trabajar con sistemas backend y construir aplicaciones web escalables y personalizadas. ¡Siempre estoy dispuesto a aprender y asumir nuevos desafíos!
 
