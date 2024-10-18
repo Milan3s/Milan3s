@@ -46,15 +46,3 @@ Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan3s&layout=compact&theme=radical" alt="Most Used Languages" height="180">
 </p>
-
----
-
-### Cómo contactarme:
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-profile/" style="margin-left: 20px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:your-email@example.com" style="margin-left: 20px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
