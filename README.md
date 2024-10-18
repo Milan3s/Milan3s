@@ -2,7 +2,7 @@
 
 # ¡Hola, soy David Milanés! 👋
 
-Soy un Desarrollador de SoftWare con más de 2 años de experiencia en PHP, MySQL, Java y Desarrollo Web. Me apasiona trabajar en sistemas backend y construir aplicaciones web escalables. ¡Siempre estoy dispuesto a aprender y asumir nuevos desafíos!
+Soy un Desarrollador de Software con más de 2 años de experiencia en PHP, MySQL, Java y Desarrollo Web. Me apasiona trabajar en sistemas backend y construir aplicaciones web escalables. ¡Siempre estoy dispuesto a aprender y asumir nuevos desafíos!
 
 ---
 
