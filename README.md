@@ -30,12 +30,12 @@ Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL
   <tr>
     <td align="left">
       <strong>Gestión de Incidencias</strong><br>
-      Sistema de gestión desarrollado con Java y MySQL.<br>
+      Sistema de gestión desarrollado PHP, POO y MySQL.<br>
       <a href="https://github.com/username/gestion-de-incidencias">Ver Repositorio</a>
     </td>
     <td align="left">
       <strong>Gestión de tareas</strong><br>
-      Agenda de tareas personal creado con PHP y MySQL.<br>
+      Agenda de tareas personal creado con PHP, POO y MySQL.<br>
       <a href="https://github.com/username/gestion-de-tareas">Ver Repositorio</a>
     </td>
   </tr>
