@@ -27,11 +27,12 @@ Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL
   </tr>
 </table>
 
+### Cómo contactarme:
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-profile/">
+  <a href="https://www.linkedin.com/in/your-profile/" style="margin-left: 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-email@example.com" style="margin-left: 20px;">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
