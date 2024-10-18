@@ -28,14 +28,14 @@ Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL
 <table>
   <tr>
     <td align="left">
-      <strong>Sistema de Gestión</strong><br>
+      <strong>Gestión de Incidencias</strong><br>
       Sistema de gestión desarrollado con Java y MySQL.<br>
-      <a href="https://github.com/username/sistema-gestion">Ver Repositorio</a>
+      <a href="https://github.com/username/gestion-de-incidencias">Ver Repositorio</a>
     </td>
     <td align="left">
-      <strong>Blog PHP</strong><br>
-      Blog personal creado con PHP y MySQL.<br>
-      <a href="https://github.com/username/blog-php">Ver Repositorio</a>
+      <strong>Gestión de tareas</strong><br>
+      Agenda de tareas personal creado con PHP y MySQL.<br>
+      <a href="https://github.com/username/gestion-de-tareas">Ver Repositorio</a>
     </td>
   </tr>
 </table>
