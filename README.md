@@ -12,12 +12,12 @@ Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL
 
 ### Tecnologías que uso
 <p align="left">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=40" alt="PHP" height="40" width="140">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=40" alt="MySQL" height="40" width="140">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&logoWidth=40" alt="Java" height="40" width="140">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40" alt="HTML5" height="40" width="140">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40" alt="CSS3" height="40" width="140">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=40" alt="JavaScript" height="40" width="140">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoWidth=80" alt="PHP" height="60" width="80">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=40" alt="MySQL" height="60" width="80">
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&logoWidth=40" alt="Java" height="60" width="80">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=40" alt="HTML5" height="60" width="80">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=40" alt="CSS3" height="60" width="80">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=60" alt="JavaScript" height="40" width="80">
 </p>
 
 ---
