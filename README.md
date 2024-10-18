@@ -5,7 +5,7 @@
 Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL, Java y Desarrollo Web. Me apasiona trabajar en sistemas backend y construir aplicaciones web escalables. ¡Siempre estoy dispuesto a aprender y asumir nuevos desafíos!
 
 ### Tecnologías que uso
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -14,7 +14,7 @@ Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL
 ### Proyectos destacados
 <table>
   <tr>
-    <td align="center">
+    <td align="left">
       <strong>Sistema de Gestión</strong><br>
       Sistema de gestión desarrollado con Java y MySQL.<br>
       <a href="https://github.com/username/sistema-gestion">Ver Repositorio</a>
@@ -27,7 +27,7 @@ Soy un Desarrollador Full-stack con más de 2 años de experiencia en PHP, MySQL
   </tr>
 </table>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/your-profile/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
