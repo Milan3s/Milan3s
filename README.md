@@ -70,10 +70,3 @@ Soy un Desarrollador de Software con más de 2 años de experiencia en PHP, MySQ
   <img src="https://github-readme-stats.vercel.app/api?username=milan3s&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=milan3s&theme=radical" alt="GitHub Streak" height="180">
 </p>
-
----
-
-### Lenguajes más usados
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan3s&layout=compact&theme=radical" alt="Most Used Languages" height="180">
-</p>
