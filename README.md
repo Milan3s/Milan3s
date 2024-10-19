@@ -53,7 +53,7 @@ Soy un Desarrollador de Software con más de 2 años de experiencia en PHP, MySQ
     <td align="left">
       <strong>Gestión de Incidencias</strong><br>
       Sistema de gestión desarrollado PHP, POO y MySQL.<br>
-      <a href="https://github.com/username/gestion-de-incidencias">Ver Repositorio</a>
+      <a href="https://github.com/Milan3s/gestion-de-incidencias.git">Ver Repositorio</a>
     </td>
     <td align="left">
       <strong>Gestión de tareas</strong><br>
