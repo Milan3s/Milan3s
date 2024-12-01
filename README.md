@@ -55,8 +55,7 @@ Soy un Desarrollador de Software con más de 2 años de experiencia en PHP, MySQ
       Sistema de gestión desarrollado PHP, POO y MySQL.<br>
       <a href="https://github.com/Milan3s/gestion-de-incidencias.git">Ver Repositorio</a>
     </td>
-
-     <td align="left">
+    <td align="left">
       <strong>Recordatorio Medicinal</strong><br>
       Sistema de recordatorio medicinal para llevar un control de la salud, PHP, POO y MySQL.<br>
       <a href="https://github.com/Milan3s/gestion-de-incidencias.git">Ver Repositorio</a>
