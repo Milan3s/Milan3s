@@ -54,17 +54,25 @@ Soy un Desarrollador de Software con más de 2 años de experiencia en PHP, MySQ
 <table>
   <tr>
     <td align="left">
-      <strong>Gestión de Incidencias</strong><br>
-      Sistema de gestión desarrollado PHP, POO y MySQL.<br>
-      <a href="https://github.com/Milan3s/gestion-de-incidencias.git">Ver Repositorio</a>
+      <strong>Diario Gamer</strong><br>
+      Aplicación de escritorio desarrollada con <strong>HTML, CSS, JavaScript</strong> y <strong>Electron</strong> para crear un diario de juegos.<br>
+      <a href="https://github.com/Milan3s/diariogamer" target="_blank">Ver Repositorio</a>
     </td>
     <td align="left">
-      <strong>Recordatorio Medicinal</strong><br>
-      Sistema de recordatorio medicinal para llevar un control de la salud, PHP, POO y MySQL.<br>
-      <a href="https://github.com/Milan3s/gestion-de-incidencias.git">Ver Repositorio</a>
+      <strong>Proyecto CRA DAM 24/25</strong><br>
+      Sistema web con <strong>PHP</strong>, <strong>MySQL</strong> y <strong>Bootstrap</strong> para la gestión académica y administrativa.<br>
+      <a href="https://github.com/Milan3s/Proyecto_CRA_DAM-24-25" target="_blank">Ver Repositorio</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <strong>Proyecto Agenda DAW 19/21</strong><br>
+      Aplicación de escritorio con <strong>JavaFX</strong> y <strong>MySQL</strong> para la gestión de contactos y tareas.<br>
+      <a href="https://github.com/Milan3s/Proyecto_AGENDA_DAW-19-21" target="_blank">Ver Repositorio</a>
     </td>
   </tr>
 </table>
+
 
 ---
 
