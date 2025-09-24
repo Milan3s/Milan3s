@@ -43,7 +43,10 @@ Soy un Desarrollador de Software con más de 2 años de experiencia en PHP, MySQ
 <p align="left">
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="40">
   <img src="https://img.shields.io/badge/-Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE" alt="Astro" height="40">
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="40">
+  <img src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="40">
 </p>
+
 
 ---
 
