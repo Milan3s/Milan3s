@@ -60,14 +60,14 @@ Soy un Desarrollador de Software con más de 2 años de experiencia en PHP, MySQ
     </td>
     <td align="left">
       <strong>Proyecto CRA DAM 24/25</strong><br>
-      Sistema web con <strong>PHP</strong>, <strong>MySQL</strong> y <strong>Bootstrap</strong> para la gestión académica y administrativa.<br>
+      Aplicación de escritorio realizada con <strong>Java FX</strong>, <strong>MySQL</strong> y <strong>CSS</strong> para la gestión académica y administrativa.<br>
       <a href="https://github.com/Milan3s/Proyecto_CRA_DAM-24-25" target="_blank">Ver Repositorio</a>
     </td>
   </tr>
   <tr>
     <td align="left">
       <strong>Proyecto Agenda DAW 19/21</strong><br>
-      Aplicación de escritorio con <strong>JavaFX</strong> y <strong>MySQL</strong> para la gestión de contactos y tareas.<br>
+      Aplicación Web Realizada con <strong>HTML, Bootstrap, JS , PHP, PDO</strong> y <strong>MySQL</strong> para la gestión de contactos y tareas.<br>
       <a href="https://github.com/Milan3s/Proyecto_AGENDA_DAW-19-21" target="_blank">Ver Repositorio</a>
     </td>
   </tr>
